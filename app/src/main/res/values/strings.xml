@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicDeliveryFeature</string>
+    <string name="title_image_feature">Image</string>
+    <string name="title_image_large_feature">Large Image</string>
+</resources>
